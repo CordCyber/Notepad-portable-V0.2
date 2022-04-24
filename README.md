@@ -20,5 +20,5 @@ Notepad portable написаный на Python. By CordCyber.
 - Создан бот куда можно писать отзывы
 
 ##  Credits:
-> [![](https://cdn.discordapp.com/avatars/916040642![2GU](https://user-images.githubusercontent.com/103395079/164997904-756004c3-8958-4463-af68-5668737289d1.gif)](https://github.com/CordCyber) <br>CordCyber :
+> <br>CordCyber :
  <br>BTC : bc1q7qetejfa3q8ukkqcn3ct9fctcah34q2rlvvnl4
