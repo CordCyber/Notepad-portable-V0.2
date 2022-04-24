@@ -20,6 +20,6 @@ Notepad portable написаный на Python. By CordCyber.
 - Создан бот куда можно писать отзывы
 
 ##  Credits:
-<div style="padding-top:100.000%;position:relative;"><iframe src="https://gifer.com/embed/2GU" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">через GIFER</a></p>
+![2GU](https://user-images.githubusercontent.com/103395079/164997981-5356a76b-d1d3-427c-a6ca-3b4a25a73691.gif?size=40)
 ><br>CordCyber :
  <br>BTC : bc1q7qetejfa3q8ukkqcn3ct9fctcah34q2rlvvnl4
